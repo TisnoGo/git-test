@@ -1,0 +1,22 @@
+diff -Nur new/loko new1/loko
+--- new/loko	2023-04-17 18:47:20.316514336 +0300
++++ new1/loko	1970-01-01 03:00:00.000000000 +0300
+@@ -1,4 +0,0 @@
+-ko-ko-ko
+-something new
+-new2
+-new2
+diff -Nur new/loko1 new1/loko1
+--- new/loko1	1970-01-01 03:00:00.000000000 +0300
++++ new1/loko1	2023-04-17 18:50:16.854135859 +0300
+@@ -0,0 +1,5 @@
++ko-ko-ko
++something new
++new2
++new3
++klljj jlkjl;l1111
+diff -Nur new/pol-op new1/pol-op
+--- new/pol-op	1970-01-01 03:00:00.000000000 +0300
++++ new1/pol-op	2023-04-04 00:13:39.118132197 +0300
+@@ -0,0 +1 @@
++sfjglkjksjgks sg j1111111111111
