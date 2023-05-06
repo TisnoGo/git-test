@@ -1,0 +1,8 @@
+total 20
+-rw-r--r--. 1 fedir fedir 568 Apr 17 19:18 diff
+-rw-r--r--. 1 fedir fedir  28 May  6 16:13 file1
+-rw-r--r--. 2 fedir fedir 116 May  6 14:36 link
+-rw-r--r--. 2 fedir fedir 116 May  6 14:36 link-link
+lrwxrwxrwx. 1 fedir fedir   4 Mar 25 17:05 linksoft -> link
+-rw-r--r--. 1 fedir fedir   0 May  6 16:17 list
+drwxr-xr-x. 1 fedir fedir  22 Apr 17 19:24 new
